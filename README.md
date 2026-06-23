@@ -161,11 +161,11 @@ I am actively contributing to open-source ecosystems during **GirlScript Summer 
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=omnipotentchaos&background=181715&stroke=efe9de&ring=cc785c&fire=e8a55a&currStreakLabel=faf9f5&sideLabels=a09d96&dates=faf9f5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=omnipotentchaos&theme=midnight-purple)](https://git.io/streak-stats)
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=omnipotentchaos&theme=darkhub&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-tawny.vercel.app/?username=omnipotentchaos&theme=darkhub&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
